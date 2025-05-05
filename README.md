@@ -21,4 +21,7 @@ There were several clear directions for us to extend this work. First we would l
 
 ## Contributions
 
-Details on the contributions of each member to the project, including time spent (if a group of one you should still do this)
+Throughout this project, we adopted a fully collaborative workflow. We were both equally involved in research, technical elements, and articulating the findings. 
+Rather than dividing the workload into strict sections, we found it more beneficial to adopt a programming and co-writing model. This means we chose to work in parallel, most times in the same space or on the phone. Writing code, troubleshooting issues, going over results, and refining our methodology were done together in real-time. 
+We alternated drafting and editing responsibilities throughout the writing process, making sure both voices and ideas were integrated and that we both fully understood 100% of the project. Natailie took the lead on portions of the code implementation, while Sarah led the design and development of the poster.
+The final submission reflects a joint effort, with no singular ownership over any part. This approach worked best for our work quality and understanding of the methods and findings.

@@ -26,3 +26,9 @@ Rather than dividing the workload into strict sections, we found it more benefic
 
 We alternated drafting and editing responsibilities throughout the writing process, making sure both voices and ideas were integrated and that we both fully understood 100% of the project. Natalie took the lead on portions of the code implementation, while Sarah led the design and development of the poster.
 The final submission reflects a joint effort, with no singular ownership over any part. This approach worked best for our work quality and understanding of the methods and findings.
+
+A rough estimate of the time everything took: 
+Research 13 hours. This involved reading articles and looking up/learning effective coding techniques.
+Coding 15-17 hours. This involved writing code, troubleshooting, and around 70 hours of waiting for the tuning machine. 
+Poster and presentation prep 6-8. this included compiling information, making charts, and understanding the code outputs.   
+
